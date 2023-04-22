@@ -1,0 +1,3 @@
+SELECT * 
+FROM employee
+WHERE EmpID BETWEEN 5 AND 15
